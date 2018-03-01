@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDCPictureMake", "IDCPictureMake\IDCPictureMake.csproj", "{A185CD1B-5F5A-46E6-BD93-A37428AA9C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A185CD1B-5F5A-46E6-BD93-A37428AA9C45}.Debug|x86.ActiveCfg = Debug|x86
+		{A185CD1B-5F5A-46E6-BD93-A37428AA9C45}.Debug|x86.Build.0 = Debug|x86
+		{A185CD1B-5F5A-46E6-BD93-A37428AA9C45}.Release|x86.ActiveCfg = Release|x86
+		{A185CD1B-5F5A-46E6-BD93-A37428AA9C45}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

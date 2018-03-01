@@ -1,0 +1,6 @@
+E:\Code\三峡银行招标\IDCPictureMake\IDCPictureMake\bin\Debug\IDCPictureMake.exe
+E:\Code\三峡银行招标\IDCPictureMake\IDCPictureMake\bin\Debug\IDCPictureMake.pdb
+E:\Code\三峡银行招标\IDCPictureMake\IDCPictureMake\obj\x86\Debug\IDCPictureMake.exe
+E:\Code\三峡银行招标\IDCPictureMake\IDCPictureMake\obj\x86\Debug\IDCPictureMake.pdb
+E:\Code\三峡银行招标\IDCPictureMake\IDCPictureMake\obj\x86\Debug\IDCPictureMake.csprojResolveAssemblyReference.cache
+E:\Code\三峡银行招标\IDCPictureMake\IDCPictureMake\bin\Debug\IDCPictureMake.exe.config
